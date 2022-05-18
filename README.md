@@ -15,9 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=huynhit24&show_icons=true&theme=radical)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=huynhit24&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=huynhit24&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <p align="center"> <img src="https://github.com/TamNguyenS/TamNguyenS/blob/output/github-contribution-grid-snake.svg" alt="tamnguyens" /> </p>
