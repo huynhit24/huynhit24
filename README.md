@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 -->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=huynhit24&show_icons=true&theme=radical)
 
-![](https://raw.githubusercontent.com/huynhit24/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/huynhit24/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+<!-- ![](https://raw.githubusercontent.com/huynhit24/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/huynhit24/github-stats/master/generated/languages.svg#gh-dark-mode-only) -->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=huynhit24&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
