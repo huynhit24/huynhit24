@@ -1,5 +1,9 @@
-### Fo lô ti nô! Quá ghê gớm! Những tình huống buff bẩn! 🎮
+# Fo lô ti nô! Quá ghê gớm! Những tình huống buff bẩn! 🎮
 Hãy quan tâm đến giá trị mà mình tạo ra, theo đuổi đam mê, thành công sẽ theo đuổi bạn.
+
+![image](https://user-images.githubusercontent.com/66912536/178892553-8e5f173f-e599-4935-a523-770a360f58d2.png)
+
+
 <!--
 **huynhit24/huynhit24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
